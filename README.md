@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# demo-cred
+
+Generate your own cryptographically signed credentials, and verify it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
